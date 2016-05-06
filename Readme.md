@@ -1,4 +1,4 @@
-# sai_nrpes
+# sai_nrpe
 
 Installs [NRPE](https://exchange.nagios.org/directory/Addons/Monitoring-Agents/
 NRPE--2D-Nagios-Remote-Plugin-Executor/details) with a minimal config and 
